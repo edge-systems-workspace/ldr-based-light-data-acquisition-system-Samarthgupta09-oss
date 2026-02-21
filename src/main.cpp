@@ -56,5 +56,5 @@ void loop() {
 
     // TODO 9:
     // Add delay (1 second)
-    delay(1000);
+    delay(2000);
 }
